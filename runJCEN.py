@@ -21,7 +21,7 @@ from keras.optimizers import Adam
 import itertools  
 
 import os
-path = "C:/Users/usama/Desktop/JC/project-20201129T121803Z-001/project/"
+path = "Enter-path/Enter-path/project/"
 train_data_path = path+"train"
 test_data_path = path+"test"
 valid_data_path = path+"valid"
